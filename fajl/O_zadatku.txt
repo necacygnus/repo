@@ -1,0 +1,6 @@
+Zadatak uradjen tako da pali diode i pokrece igricu.
+Sled igrice se izvrsava preko provere stanja globalnog brojaca i.
+Skroz desni taster se koristi za potvrdu stanja prekidaca.
+Na kraju nije odradjen ispis LED-ovki kako treba, nego samo ispis preko puts() naredbe da li je igra odradjena tacno.
+Resetuje se nakon odradjene igre (tacno ili netacno resenje).
+Ne postoji reset u proizvoljnom trenutku (poslednja stavka zadatka).
